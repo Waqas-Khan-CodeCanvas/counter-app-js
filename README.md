@@ -1,4 +1,5 @@
 # Counter App 🚀
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc548e9c-f8cc-4e3b-a2da-d39c50ccd391/deploy-status)](https://app.netlify.com/sites/javascriptcounter-app/deploys)
 
 A simple and interactive **Counter App** built using JavaScript, HTML, CSS, and Bootstrap. This app allows users to increase or decrease the counter dynamically with a clean and responsive UI.
 
@@ -8,7 +9,8 @@ A simple and interactive **Counter App** built using JavaScript, HTML, CSS, and 
 - **JavaScript (ES6+)** for functionality
 
 ## 🚀 Live Demo
-Check out the live version here: [Live Demo](#) 
+Check out the live version here: [Live Demo](https://app.netlify.com/sites/javascriptcounter-app) 
+
 
 ## 📚 Features
 - **Increment & Decrement Counter** using `+` and `-` buttons
